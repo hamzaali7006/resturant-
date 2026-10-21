@@ -1,0 +1,6 @@
+{
+  "name": "Saffron & Stone - Gourmet Restaurant & Table Booking",
+  "description": "Full-featured mobile Android restaurant app with menu exploration, food search & filters, interactive table reservations, cart & checkout, order tracking, and Firebase authentication & Firestore database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
